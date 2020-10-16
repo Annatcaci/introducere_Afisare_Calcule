@@ -1,0 +1,7 @@
+a=input("nr. Iepuri la inceput de luna ")
+b=input("nr. Iepuri care au murit")
+c=input("nr. Iepuri nascuti")
+a=int(a)
+b=int(b)
+c=int(c)
+print(a-b+c,"iepuri")

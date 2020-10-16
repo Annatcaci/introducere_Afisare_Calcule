@@ -1,0 +1,1 @@
+nr = input("Numarul culorii")

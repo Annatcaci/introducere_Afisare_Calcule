@@ -1,0 +1,5 @@
+a = input("numarul de elevi din a doua statie")
+b = input("numarul de elevi din a treia statie")
+a = int(a)
+b = int(b)
+print(" Numarul de elevi in excursie", a+b+7)
